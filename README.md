@@ -1,4 +1,8 @@
-### Hi there 👋
+# Olá, me chamo Murilo Luis Missura da Silva (mmissura) 🎸
+
+## Estudante de Engenharia da Computação pela [UNIVESP](https://univesp.br)
+
+### Estudo programação a cerca de 2 anos e venho adiquirindo cada dia mais experiência para que eu possa desenvolver novas habilidades e melhorar e contribuir cada vez mais nos projetos pessoais e profissionais 💻
 
 
 
@@ -19,8 +23,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mmissura/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mmissura/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmissura/)
-<a href="https://www.linkedin.com/in/murilo-missura-81b821246/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:mmissura@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <!--
 **mmissura/mmissura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
