@@ -1,9 +1,13 @@
 # Olá, me chamo Murilo Luis Missura da Silva (mmissura) 🎸
+<br></br>
+
 
 ## Estudante de Engenharia da Computação pela [UNIVESP](https://univesp.br)
+<br></br>
 
-### Estudo programação a cerca de 2 anos e venho adiquirindo cada dia mais experiência para que eu possa desenvolver novas habilidades e melhorar e contribuir cada vez mais nos projetos pessoais e profissionais 💻
 
+### Faço cursos mais aprofundados em programação a cerca de 2 anos e venho adiquirindo cada dia mais experiência para que eu possa desenvolver novas habilidades e melhorar e contribuir cada vez mais nos projetos pessoais e profissionais 💻
+<br></br>
 
 
 
@@ -14,7 +18,7 @@
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) <br></br>
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmissura)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
