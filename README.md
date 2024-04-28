@@ -6,7 +6,7 @@
 </br></br>
 
 
-### Faço cursos mais aprofundados em programação a cerca de 2 anos e venho adiquirindo cada dia mais experiência para que eu possa desenvolver novas habilidades e melhorar e contribuir cada vez mais nos projetos pessoais e profissionais 💻
+### Venho fazendo cursos mais aprofundados em programação a cerca de 2 anos e adiquirindo cada dia mais experiência para que eu possa desenvolver novas habilidades, melhorar e contribuir cada vez mais nos projetos pessoais e profissionais 💻
 </br></br>
 
 #### Linguagens mais utilizadas nos meus projetos 🚀<br></br>
