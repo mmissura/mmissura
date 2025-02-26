@@ -2,11 +2,11 @@
 </br></br>
 
 
-## Estudante de Engenharia da Computação pela [UNIVESP](https://univesp.br)
+## Formado em Engenharia da Computação pela [UNIVESP](https://univesp.br)
 </br></br>
 
 
-### Estudo programação a cerca de 2 anos e venho adquirindo cada dia mais experiência para que eu possa desenvolver novas habilidades, melhorar e contribuir cada vez mais nos projetos pessoais e profissionais 💻
+### Estudo programação a cerca de 3 anos e venho adquirindo cada dia mais experiência para que eu possa desenvolver novas habilidades, melhorar e contribuir cada vez mais nos projetos pessoais e profissionais 💻
 </br></br>
 
 #### Linguagens mais utilizadas nos meus projetos 🚀<br></br>
